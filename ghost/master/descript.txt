@@ -1,17 +1,14 @@
 charset,UTF-8
 
+craftman,Suminezu
+craftmanw,墨鼠
+craftmanurl,https://prayfortiny.net/
+
 name,こびとに捧ぐうた
 type,ghost
 
 sakura.name,玲奈
 kero.name,スミレ
 
-sstp.allowunspecifiedsend,1
-
-icon,icon.ico
-
-shiori,yaya.dll
-
-craftman,suminezu
-craftmanw,墨鼠
-craftmanurl,https://twitter.com/prayfortiny
+icon,post.ico
+shiori,satori.dll
