@@ -276,7 +276,7 @@
 
 ＊OnChoiceSelect
 ＞（Ｒ０）
-：選択肢のジャンプ先「（Ｒ０）」は存在しないよ？
+選択肢のジャンプ先「（Ｒ０）」は存在しないみたい。
 ：不具合かな。
 
 ＊OnChoiceTimeout
@@ -501,4 +501,3 @@
 
 ＊OnUserInputCancel
 \0\c\1\c\e
-
