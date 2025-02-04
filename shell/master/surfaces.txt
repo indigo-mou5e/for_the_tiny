@@ -5,231 +5,257 @@ descript
 version,1
 }
 
-surface0
+surface0-9,28,48,100-109,128,148
 {
-element0,base,surface0000.png,0,0
+element0,base,pose00.png,0,0
 }
 
-surface1
+surface10-19,38,58,110-119,138,158
 {
-element0,base,surface0001.png,0,0
+element0,base,pose10.png,0,0
 }
 
-surface2
+surface.append0
 {
-element0,base,surface0002.png,0,0
+element1,overlay,face0000.png,224,279
 }
 
-surface3
+surface.append1
 {
-element0,base,surface0003.png,0,0
+element1,overlay,face0001.png,224,279
 }
 
-surface4
+surface.append2
 {
-element0,base,surface0004.png,0,0
+element1,overlay,face0002.png,224,279
 }
 
-surface5
+surface.append3
 {
-element0,base,surface0005.png,0,0
+element1,overlay,face0003.png,224,279
 }
 
-surface6
+surface.append4
 {
-element0,base,surface0006.png,0,0
+element1,overlay,face0004.png,224,279
 }
 
-surface7
+surface.append5
 {
-element0,base,surface0007.png,0,0
+element1,overlay,face0005.png,224,279
 }
 
-surface8
+surface.append6
 {
-element0,base,surface0008.png,0,0
+element1,overlay,face0006.png,224,279
 }
 
-surface9
+surface.append7
 {
-element0,base,surface0009.png,0,0
+element1,overlay,face0007.png,224,279
 }
 
-surface10
+surface.append8
 {
-element0,base,surface0010.png,0,0
+element1,overlay,face0008.png,224,279
 }
 
-surface11
+surface.append9
 {
-element0,base,surface1001.png,0,0
+element1,overlay,face0009.png,224,279
 }
 
-surface12
+surface.append10
 {
-element0,base,surface1002.png,0,0
+element1,overlay,face0010.png,215,71
 }
 
-surface13
+surface.append11
 {
-element0,base,surface1003.png,0,0
+element1,overlay,face0011.png,215,71
 }
 
-surface14
+surface.append12
 {
-element0,base,surface1004.png,0,0
+element1,overlay,face0012.png,215,71
 }
 
-surface15
+surface.append13
 {
-element0,base,surface1005.png,0,0
+element1,overlay,face0013.png,215,71
 }
 
-surface16
+surface.append14
 {
-element0,base,surface1006.png,0,0
+element1,overlay,face0014.png,215,71
 }
 
-surface17
+surface.append15
 {
-element0,base,surface1007.png,0,0
+element1,overlay,face0015.png,215,71
 }
 
-surface18
+surface.append16
 {
-element0,base,surface1008.png,0,0
+element1,overlay,face0016.png,215,71
 }
 
-surface19
+surface.append17
 {
-element0,base,surface1009.png,0,0
+element1,overlay,face0017.png,215,71
 }
 
-surface100
+surface.append18
 {
-element0,base,surface0100.png,0,0
+element1,overlay,face0018.png,215,71
 }
 
-surface101
+surface.append19
 {
-element0,base,surface0101.png,0,0
+element1,overlay,face0019.png,215,71
 }
 
-surface102
+surface.append28
 {
-element0,base,surface0102.png,0,0
+element1,overlay,face0028.png,224,279
 }
 
-surface103
+surface.append38
 {
-element0,base,surface0103.png,0,0
+element1,overlay,face0038.png,215,71
 }
 
-surface104
+surface.append48
 {
-element0,base,surface0004.png,0,0
+element1,overlay,face0048.png,224,279
 }
 
-surface105
+surface.append58
 {
-element0,base,surface0005.png,0,0
+element1,overlay,face0058.png,215,71
 }
 
-surface106
+surface.append100
 {
-element0,base,surface0006.png,0,0
+element1,overlay,face0100.png,224,279
 }
 
-surface107
+surface.append101
 {
-element0,base,surface0107.png,0,0
+element1,overlay,face0101.png,224,279
 }
 
-surface108
+surface.append102
 {
-element0,base,surface0108.png,0,0
+element1,overlay,face0102.png,224,279
 }
 
-surface109
+surface.append103
 {
-element0,base,surface0109.png,0,0
+element1,overlay,face0103.png,224,279
 }
 
-surface110
+surface.append104
 {
-element0,base,surface1100.png,0,0
+element1,overlay,face0104.png,224,279
 }
 
-surface111
+surface.append105
 {
-element0,base,surface1101.png,0,0
+element1,overlay,face0105.png,224,279
 }
 
-surface112
+surface.append106
 {
-element0,base,surface1102.png,0,0
+element1,overlay,face0106.png,224,279
 }
 
-surface113
+surface.append107
 {
-element0,base,surface1103.png,0,0
+element1,overlay,face0107.png,224,279
 }
 
-surface114
+surface.append108
 {
-element0,base,surface1004.png,0,0
+element1,overlay,face0108.png,224,279
 }
 
-surface115
+surface.append109
 {
-element0,base,surface1005.png,0,0
+element1,overlay,face0109.png,224,279
 }
 
-surface116
+surface.append110
 {
-element0,base,surface1006.png,0,0
+element1,overlay,face0110.png,215,71
 }
 
-surface117
+surface.append111
 {
-element0,base,surface1107.png,0,0
+element1,overlay,face0111.png,215,71
 }
 
-surface118
+surface.append112
 {
-element0,base,surface1108.png,0,0
+element1,overlay,face0112.png,215,71
 }
 
-surface119
+surface.append113
 {
-element0,base,surface1109.png,0,0
+element1,overlay,face0113.png,215,71
 }
 
-surface999
+surface.append114
 {
-element0,base,surface0999.png,0,0
+element1,overlay,face0114.png,215,71
 }
 
-surface1999
+surface.append115
 {
-element0,base,surface1999.png,0,0
+element1,overlay,face0115.png,215,71
 }
 
-surface.append0-9,100-109
+surface.append116
 {
-collisionex0,Head,region,collidor0xxx.png,255,0,0
-collisionex1,Ear,region,collidor0xxx.png,255,0,255
-collisionex2,Hair,region,collidor0xxx.png,255,255,0
-collisionex3,Hand,region,collidor0xxx.png,0,0,255
+element1,overlay,face0116.png,215,71
 }
 
-surface.append10-19,110-119
+surface.append117
 {
-collisionex0,Head,region,collidor1xxx.png,255,0,0
-collisionex1,Ear,region,collidor1xxx.png,255,0,255
-collisionex2,Hair,region,collidor1xxx.png,255,255,0
-collisionex3,Hand,region,collidor1xxx.png,0,0,255
-collisionex4,Tail,region,collidor1xxx.png,0,255,0
-collisionex5,Boots,region,collidor1xxx.png,0,255,255
-collisionex6,Heso,region,collidor1xxx.png,255,255,255
+element1,overlay,face0117.png,215,71
+}
+
+surface.append118
+{
+element1,overlay,face0118.png,215,71
+}
+
+surface.append119
+{
+element1,overlay,face0119.png,215,71
+}
+
+surface.append128
+{
+element1,overlay,face0128.png,224,279
+}
+
+surface.append138
+{
+element1,overlay,face0138.png,215,71
+}
+
+surface.append148
+{
+element1,overlay,face0148.png,224,279
+}
+
+surface.append158
+{
+element1,overlay,face0158.png,215,71
+}
+
+surface.append211
+{
+element1,overlay,face0211.png,215,71
 }
