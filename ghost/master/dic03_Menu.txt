@@ -35,8 +35,14 @@
 （）
 
 ＊しつもん
-：うんっ。
-なにか聞きたいことはある\![open,inputbox,ゴーストへの質問,0,]？
+：はーい。
+なにか聞きたいことはある？\![open,inputbox,ゴーストへの質問,0,]
+：長い文章を送るならブラウザから開くと楽だよ。
+
+＿質問フォームを開く
+
+＊質問フォームを開く
+\C\![open,browser,https://forms.gle/yKZmNFWR2e9nhTKA9]\e
 
 ＊ゴーストへの質問を教えてもらった
 ：メッセージ、送信中………\![enter,onlinemode]\![execute,http-post,https://docs.google.com/forms/u/0/d/e/1FAIpQLSeieGzWNMcn65Duj5w37RQP3MsjcM56K3z-pRDFRsPZlaj9ww/formResponse,--async=OnPostedFormTest,--header=mode:no-cors,--param=entry.1906038006=（R1）]
@@ -45,11 +51,12 @@
 \0\c\1\c\e
 
 ＊OnPostedFormTest
-：\![leave,onlinemode]ん！　送信成功ですね。\e
+：\![leave,onlinemode]送信成功！！
+：回答までしばらくお待ちを。\e
 
 ＊OnPostedFormTestFailure
-：\![leave,onlinemode]送信に失敗しました………
-ネットワークの設定を見直してみてください。\e
+：\![leave,onlinemode]メッセージ送信、失敗………
+：ネットワークの設定を見直してみてください。\e
 
 ＊玲奈に話しかける
 ＄コミュ対象	玲奈
