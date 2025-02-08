@@ -25,6 +25,16 @@ surface13-14,19,37-38,58,113-114,119,137-138,158,211
 element0,base,pose11.png,0,0
 }
 
+surface999
+{
+element0,base,pose999.png,0,0
+}
+
+surface1999
+{
+element0,base,pose1999.png,0,0
+}
+
 surface.append0
 {
 element1,overlay,face0000.png,224,279
