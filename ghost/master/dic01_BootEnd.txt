@@ -18,7 +18,7 @@
 ＞初回起動
 
 ＊OnBoot
-\![set,scaling,（zen2han,（玲奈サイズ））]\c
+\0\![set,scaling,（zen2han,（玲奈サイズ））]\c
 ＞（現在月）月（現在日）日
 ＞起動時変数初期化
 
@@ -27,6 +27,7 @@
 ＞終了
 
 ＊OnGhostChanged
+\0\![set,scaling,（zen2han,（玲奈サイズ））]\c
 ＞（現在月）月（現在日）日
 ＞他のゴーストから変更
 

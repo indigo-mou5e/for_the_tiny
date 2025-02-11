@@ -12,6 +12,7 @@
 ＄デフォルトサーフェス1	10
 ＄スコープ切り換え時	\n[half]
 ＄ユーザ名	ユーザ
+＄ユーザ名	ゆーざ
 ＄ユーザ敬称	さん
 ＄ユーザ身長	１６０
 ＄ユーザ体重	６０
@@ -44,7 +45,7 @@
 ＃　　・自動設定される引数。これは省略可。
 ＃
 
-＠SAORI
-fill_desktop,saori/fill_desktop.dll
-fill_red,saori/fill_desktop.dll,255,0,0
+＃＠SAORI
+＃fill_desktop,saori/fill_desktop.dll
+＃fill_red,saori/fill_desktop.dll,255,0,0
 
