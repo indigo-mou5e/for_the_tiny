@@ -4,7 +4,7 @@ craftman,Suminezu
 craftmanw,墨鼠
 craftmanurl,https://prayfortiny.net/
 
-name,こびとに捧ぐうた
+name,小さなきみと歌ううた
 type,ghost
 
 sakura.name,玲奈

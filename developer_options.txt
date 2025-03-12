@@ -4,3 +4,4 @@ ghost/master/satorite.txt,nonar,noupdate
 ghost/master/satorite.exe,nonar,noupdate
 ghost/master/れしば.txt,nonar,noupdate
 ghost/master/れしば.exe,nonar,noupdate
+shell/forSatorist,nonar,noupdate

@@ -8,26 +8,34 @@ version,1
 surface0-2,5-6,8-9,20,100-102,105-106,108-109,120
 {
 element0,base,pose00.png,0,0
+//satolist.palette.expand,0.25
+//satolist.palette.offset,170,220
 }
 
-surface3-4,7,27-28,48,103-104,107,127-128,148
+surface3-4,7,23-25,27-28,48,103-104,107,123-124,127-128,148
 {
 element0,base,pose01.png,0,0
+//satolist.palette.expand,0.25
+//satolist.palette.offset,170,220
 }
 
-surface10-12,15-18,30,110-112,115-118,130
+surface10-12,15-18,30,32,34,110-112,115-118,130,132,134
 {
 element0,base,pose10.png,0,0
+//satolist.palette.offset,200,50
 }
 
-surface13-14,19,37-38,58,113-114,119,137-138,158,211
+surface13-14,19,33,35,37-38,58,113-114,119,133,137-138,158,211
 {
 element0,base,pose11.png,0,0
+//satolist.palette.offset,200,50
 }
 
 surface999
 {
 element0,base,pose999.png,0,0
+//satolist.palette.expand,0.25
+//satolist.palette.offset,170,220
 }
 
 surface1999
@@ -140,6 +148,21 @@ surface.append20
 element1,overlay,face0020.png,224,279
 }
 
+surface.append23
+{
+element1,overlay,face0023.png,224,279
+}
+
+surface.append24
+{
+element1,overlay,face0024.png,224,279
+}
+
+surface.append25
+{
+element1,overlay,face0025.png,224,279
+}
+
 surface.append27
 {
 element1,overlay,face0027.png,224,279
@@ -153,6 +176,26 @@ element1,overlay,face0028.png,224,279
 surface.append30
 {
 element1,overlay,face0030.png,215,71
+}
+
+surface.append32
+{
+element1,overlay,face0032.png,215,71
+}
+
+surface.append33
+{
+element1,overlay,face0033.png,215,71
+}
+
+surface.append34
+{
+element1,overlay,face0034.png,215,71
+}
+
+surface.append35
+{
+element1,overlay,face0035.png,215,71
 }
 
 surface.append37
@@ -280,6 +323,21 @@ surface.append120
 element1,overlay,face0120.png,224,279
 }
 
+surface.append123
+{
+element1,overlay,face0123.png,224,279
+}
+
+surface.append124
+{
+element1,overlay,face0124.png,224,279
+}
+
+surface.append125
+{
+element1,overlay,face0125.png,224,279
+}
+
 surface.append127
 {
 element1,overlay,face0127.png,224,279
@@ -293,6 +351,21 @@ element1,overlay,face0128.png,224,279
 surface.append130
 {
 element1,overlay,face0130.png,215,71
+}
+
+surface.append132
+{
+element1,overlay,face0132.png,215,71
+}
+
+surface.append133
+{
+element1,overlay,face0133.png,215,71
+}
+
+surface.append134
+{
+element1,overlay,face0134.png,215,71
 }
 
 surface.append137

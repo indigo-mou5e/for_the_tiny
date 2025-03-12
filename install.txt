@@ -1,4 +1,4 @@
 charset,UTF-8
 type,ghost
-name,こびとに捧ぐうた
+name,小さなきみと歌ううた
 directory,for_the_tiny
