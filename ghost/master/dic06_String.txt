@@ -1,4 +1,4 @@
-
+﻿
 ＃　-----------------------------------------------------
 ＃　
 ＃　shiori互換dll『里々（さとり）』用辞書
@@ -15,23 +15,16 @@
 きほん(&P)
 
 ＠recommendrootbutton.caption
-おすすめ(&R)
+ホームページφ・連絡先(&R)
 
-＠kero.recommendbuttoncaption
-￥１のおすすめ(&R)
 
 ＠updatebutton.caption
-オンラインアップデート(&U)
 ネットワーク更新(&U)
 
 ＠vanishbutton.caption
-消滅(&F)
-アンインストール(&F)
-vanish(&F)
+おわかれ(&F)
 
 ＠readmebutton.caption
-現在のシェルについて(&R)
-取扱説明書(&R)
 Read me(&R)
 
 ＠vanishbutton.visible
@@ -67,16 +60,26 @@ Read me(&R)
 
 
 ＊sakura.recommendsites
-fiddle-de-dee
-http://fiddle-de-dee.sakura.ne.jp/
-：このパッケージの配布元です。
-：何かあったら連絡してやってな。
+mice's nest
+https://prayfortiny.net/
+
+（１１６）ホームページですね。（ウェイト３）
+（１０）イラストがあったり、3DCGがあったり、他のゴーストさんがいたりしますよ。
 
 ＊sakura.recommendsites
-「Rポストと狛犬」配布ページ
-https://emily.shillest.net/specwiki/index.php?Wiz%E2%98%85%2F%EF%BC%B2%E3%83%9D%E3%82%B9%E3%83%88%E3%81%A8%E7%8B%9B%E7%8A%AC
-：たまには確認してね。
-：更新されてるかもしれないからな。
+メッセージフォーム
+https://forms.gle/MEdJmpmpoUiZRH6V8
+
+（１１６）このゴーストに関するメッセージフォームです。（ウェイト３）
+（１０）匿名で送れるので、感想や質問、不具合報告などお気軽にどうぞ。
+
+＊sakura.recommendsites
+連絡先（X）
+https://x.com/prayfortiny
+
+（１１６）匿名でない連絡はこちらをどうぞ。
+
+
 
 ＃＊sakura.portalsites
 ＃-

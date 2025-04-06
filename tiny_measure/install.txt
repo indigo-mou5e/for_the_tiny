@@ -1,0 +1,8 @@
+charset, UTF-8
+
+type,balloon
+name,tiny measure
+directory,tiny_measure
+
+refresh,0
+script,\h\s[0]「%lastobjectname」\n\nのインストールが無事に終了しました。\e

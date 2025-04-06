@@ -8,6 +8,9 @@ version,1
 surface0-2,5-6,8-9,20,22-23,40-42,100-102,105-106,108-109,120,122-123,140-142
 {
 element0,base,pose00.png,0,0
+collisionex0,Head,region,collider0.png,255,0,0
+collisionex1,Ear,region,collider0.png,255,0,255
+collisionex2,Hand,region,collider00.png,0,0,255
 //satolist.palette.expand,0.25
 //satolist.palette.offset,170,220
 }
@@ -15,6 +18,9 @@ element0,base,pose00.png,0,0
 surface3-4,7,21,24-25,27-29,45,48-49,69,89,103-104,107,121,124-125,127-129,145,148-149,169,189
 {
 element0,base,pose01.png,0,0
+collisionex0,Head,region,collider0.png,255,0,0
+collisionex1,Ear,region,collider0.png,255,0,255
+collisionex2,Hand,region,collider0.png,0,0,255
 //satolist.palette.expand,0.25
 //satolist.palette.offset,170,220
 }
@@ -22,12 +28,20 @@ element0,base,pose01.png,0,0
 surface10-12,15-18,30,32-36,37,50,55,78,110-112,115-118,130,132-136,137,150,178
 {
 element0,base,pose10.png,0,0
+collisionex0,Head,region,collider1.png,255,0,0
+collisionex1,Ear,region,collider1.png,255,0,255
+collisionex2,Hand,region,collider1.png,0,0,255
+collisionex3,Tail,region,collider1.png,0,255,0
 //satolist.palette.offset,200,50
 }
 
 surface13-14,19,31,38-39,51,58,79,99,113-114,119,131,138-139,151,158,179,199,211,231
 {
 element0,base,pose11.png,0,0
+collisionex0,Head,region,collider1.png,255,0,0
+collisionex1,Ear,region,collider1.png,255,0,255
+collisionex2,Hand,region,collider1.png,0,0,255
+collisionex3,Tail,region,collider1.png,0,255,0
 //satolist.palette.offset,200,50
 }
 

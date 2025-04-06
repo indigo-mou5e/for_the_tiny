@@ -2,3 +2,5 @@ charset,UTF-8
 type,ghost
 name,小さなきみと歌ううた
 directory,for_the_tiny
+
+balloon.directory,tiny_measure
