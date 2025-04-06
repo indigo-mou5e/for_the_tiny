@@ -38,7 +38,7 @@ Read me(&R)
 ＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
 ＃例）
 ＃　＠homeurl
-＃　https://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
+https://prayfortiny.net/ukagaka/for_the_tny/
 
 ＠username
 （ユーザ名） 
