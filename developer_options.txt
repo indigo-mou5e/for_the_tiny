@@ -6,3 +6,4 @@ tiny_measure/,noupdate
 developer_option.txt,nonar,noupdate
 thumbnail.png,nonar,noupdate
 README.md,nonar,noupdate
+.gitignore,nonar,noupdate
