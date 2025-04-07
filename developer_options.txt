@@ -3,7 +3,7 @@ ghost/master/satori_savedata.txt,nonar,noupdate
 ghost/master/.vscode/,nonar,noupdate
 ghost/master/var/,nonar,noupdate
 tiny_measure/,noupdate
-developer_option.txt,nonar,noupdate
+developer_options.txt,nonar,noupdate
 thumbnail.png,nonar,noupdate
 README.md,nonar,noupdate
 .gitignore,nonar,noupdate

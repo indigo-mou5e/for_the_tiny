@@ -33,12 +33,7 @@ Read me(&R)
 
 
 ＠homeurl
-
-＃ネットワーク更新時にアクセスするアドレス。
-＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
-＃例）
-＃　＠homeurl
-https://prayfortiny.net/ukagaka/for_the_tny/
+https://prayfortiny.net/ukagaka/for_the_tiny/
 
 ＠username
 （ユーザ名） 

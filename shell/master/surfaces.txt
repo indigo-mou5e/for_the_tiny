@@ -10,7 +10,7 @@ surface0-2,5-6,8-9,20,22-23,40-42,100-102,105-106,108-109,120,122-123,140-142
 element0,base,pose00.png,0,0
 collisionex0,Head,region,collider0.png,255,0,0
 collisionex1,Ear,region,collider0.png,255,0,255
-collisionex2,Hand,region,collider00.png,0,0,255
+collisionex2,Hand,region,collider0.png,0,0,255
 //satolist.palette.expand,0.25
 //satolist.palette.offset,170,220
 }
